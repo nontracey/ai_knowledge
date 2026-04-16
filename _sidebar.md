@@ -1,0 +1,71 @@
+- **前言**
+  - [README](README)
+
+- **第一章 人工智能通识基础**
+  - [简介](chapter1/README)
+  - [1.1 什么是人工智能](chapter1/1.1-what-is-ai)
+  - [1.2 AI 的发展历程与趋势](chapter1/1.2-ai-history)
+
+- **第二章 大模型理论基础与应用**
+  - [简介](chapter2/README)
+  - [2.1 向量化与词向量](chapter2/2.1-vectorization)
+  - [2.2 从 RNN 到 Transformer](chapter2/2.2-rnn-to-transformer)
+  - [2.3 大模型工作流程](chapter2/2.3-llm-workflow)
+  - [2.4 大模型训练：预训练、微调与强化学习](chapter2/2.4-llm-training)
+  - [2.5 大模型的能力边界与局限性](chapter2/2.5-llm-limitations)
+  - [2.6 DeepSeek 深度解析](chapter2/2.6-deepseek)
+  - [2.7 提示词工程](chapter2/2.7-prompt-engineering)
+  - [2.8 国内外主流大模型概览](chapter2/2.8-mainstream-models)
+  - [2.9 大模型云平台与本地部署](chapter2/2.9-deployment)
+  - [2.10 用代码调用大模型](chapter2/2.10-code-integration)
+  - [2.11 Cursor AI 编程助手](chapter2/2.11-cursor)
+
+- **第三章 AI Agent 应用开发基础**
+  - [简介](chapter3/README)
+  - [3.1 什么是 AI Agent](chapter3/3.1-what-is-agent)
+  - [3.2 Agent 的核心能力](chapter3/3.2-agent-capabilities)
+  - [3.3 Agent 的发展历程](chapter3/3.3-agent-evolution)
+  - [3.4 Agent 的语言与多模态能力](chapter3/3.4-language-multimodal)
+  - [3.5 Agent 的四大特性与核心组件](chapter3/3.5-agent-traits-components)
+  - [3.6 主流 Agent 开发框架概览](chapter3/3.6-framework-overview)
+  - [3.7 Coze 零门槛构建智能体](chapter3/3.7-coze)
+  - [3.8 Dify 开源 LLM 应用开发平台](chapter3/3.8-dify)
+
+- **第四章 AI 应用开发框架**
+  - [简介](chapter4/README)
+  - [4.1 LangChain 概述与环境准备](chapter4/4.1-langchain-intro)
+  - [4.2 LangChain 模型支持与基本用法](chapter4/4.2-langchain-models)
+  - [4.3 工具调用基础](chapter4/4.3-tool-calling)
+  - [4.4 提示模板](chapter4/4.4-prompt-templates)
+  - [4.5 链（Chain）](chapter4/4.5-chains)
+  - [4.6 LangChain Agent 与 LangGraph](chapter4/4.6-langchain-agent)
+  - [4.7 LangChain RAG 应用开发](chapter4/4.7-langchain-rag)
+  - [4.8 Semantic Kernel 概述与环境搭建](chapter4/4.8-sk-intro)
+  - [4.9 Semantic Kernel 插件与函数](chapter4/4.9-sk-plugins)
+  - [4.10 Semantic Kernel Agent 框架](chapter4/4.10-sk-agent)
+  - [4.11 Semantic Kernel 流程框架](chapter4/4.11-sk-process)
+  - [4.12 Semantic Kernel RAG](chapter4/4.12-sk-rag)
+  - [4.13 AutoGen 多智能体框架](chapter4/4.13-autogen)
+
+- **第五章 LangChain 项目实战**
+  - [简介](chapter5/README)
+  - [5.1 项目概述与架构设计](chapter5/5.1-project-overview)
+  - [5.2 模型服务层实现](chapter5/5.2-model-service)
+  - [5.3 API 路由与业务层](chapter5/5.3-api-route)
+  - [5.4 角色与会话管理](chapter5/5.4-role-session)
+  - [5.5 消息服务与对话 API](chapter5/5.5-message-service)
+  - [5.6 MCP 服务生态与交互流程](chapter5/5.6-mcp-service)
+  - [5.7 MCP 文件系统服务实战](chapter5/5.7-mcp-filesystem)
+  - [5.8 实战项目集成 MCP 设计思路](chapter5/5.8-mcp-integration)
+
+- **第六章 .NET AI 项目实战**
+  - [简介](chapter6/README)
+  - [6.1 .NET AI 项目概述](chapter6/6.1-dotnet-overview)
+  - [6.2 .NET AI 项目实现](chapter6/6.2-dotnet-implementation)
+
+- **第七章 Agent Skills 与 Claude Code**
+  - [简介](chapter7/README)
+  - [7.1 Agent Skills 概述](chapter7/7.1-agent-skills-overview)
+  - [7.2 Claude Code 基础入门](chapter7/7.2-claude-code-basics)
+  - [7.3 Claude Code 中使用 Skills](chapter7/7.3-claude-code-skills)
+  - [7.4 安装与管理 Skill 插件](chapter7/7.4-skills-management)
